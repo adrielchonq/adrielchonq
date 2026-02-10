@@ -25,12 +25,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adrielchonq&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adrielchonq&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=EDDC68&ring=EDDC68&fire=EDDC68&currStreakLabel=EDDC68&sideNums=EDDC68" />
 </div>
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrielchonq&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrielchonq&theme=github-compact&hide_border=true&bg_color=0d1117&color=EDDC68&line=EDDC68&point=c9d1d9&area=true&area_color=EDDC68" />
 </div>
 
 <!-- FOOTER -->
