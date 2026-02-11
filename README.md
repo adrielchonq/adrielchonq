@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000&text=Hola,%20It's%20Adriel%20!&desc=An%20introvert%20dev%20•%20A%20muggle%20in%20a%20wizarding%20world%20of%20code&descAlign=50&descAlignY=55&reversal=false&textBg=false&fontColor=EDDC68&fontAlignY=34&animation=fadeIn" alt="header" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000&text=Hola,%20It's%20Adriel%20!&desc=An%20introvert%20muggle%20in%20a%20wizarding%20world%20of%20code&descAlign=50&descAlignY=55&reversal=false&textBg=false&fontColor=EDDC68&fontAlignY=34&animation=fadeIn" alt="header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?1&center=true&vCenter=true&font=Orbitron&size=25&letterSpacing=0.5rem&pause=1000&color=EDDC68&width=1200&height=50&separator=%3C&lines=Don%E2%80%99t+complicate+things;+keep+it+simple%3CEveryone+starts+somewhere.+Let+results+speak%3CSkills+are+learnable;+attitude+decides+the+outcome)](https://git.io/typing-svg)
 
