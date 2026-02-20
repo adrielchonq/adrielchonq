@@ -33,6 +33,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrielchonq&theme=github-compact&hide_border=true&bg_color=0d1117&color=EDDC68&line=EDDC68&point=c9d1d9&area=true&area_color=EDDC68" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrielchonq/adrielchonq/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrielchonq/adrielchonq/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/adrielchonq/adrielchonq/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 <!-- FOOTER -->
 <div align="center">
 
