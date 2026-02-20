@@ -1,4 +1,4 @@
-<img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="header" width=100% height="350" />
+<img  src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="header" width=100% />
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000&text=Hola,%20It's%20Adriel%20!&desc=An%20introvert%20muggle%20in%20a%20wizarding%20world%20of%20code&descAlign=50&descAlignY=55&reversal=false&textBg=false&fontColor=EDDC68&fontAlignY=34&animation=fadeIn" alt="header" /> -->
 
@@ -10,15 +10,13 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> &nbsp;Hi there
 
-A Full Stack Engineer who enjoy building something that ease real-world frustrations and make people’s lives simpler. Just another muggle explorer in this "bit-world". That's why I kstay committed to continuous learning and growth to keep up with the ever-evolving technology landscape.
+A Full Stack Engineer who enjoy building something that ease real-world frustrations and make people’s lives simpler. Just another muggle explorer in this binary world. That's why I stay committed to continuous learning and growth to keep up with the ever-evolving technology landscape.
 
 In today’s AI-driven era, I’m currently mainly focused on exploring AI tools to enhance my productivity and accelerate my learning.
 
-I strongly believe that every explorer starts their journey from Hello World village, so I don’t believe in judging a book by its cover. I prefer to let attitude, time and results speak for themselves.
+I strongly believe that every explorer starts their journey from Hello World village, so I prefer to let attitude, time and results speak for themselves.
 
 > _Don’t complicate things when you can keep them simple_
-
-&nbsp;
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="25" height="25" /> &nbsp;My toolbox
 
