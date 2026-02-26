@@ -6,7 +6,7 @@
 
 &nbsp;
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=24&duration=1000&pause=2000&color=59C359&multiline=true&width=800&height=140&lines=%24+git+config+--global+user.name+%22adriel%22;%24+git+checkout+-b+full-stack-engineer;%24+git+commit+-m+%22feat%3A+create+solution+to+resolve+problem%22;%24+git+push+origin+head)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=24&duration=1000&pause=2000&color=59C359&multiline=true&width=1000&height=140&lines=%24+git+config+--global+user.name+%22adriel%22;%24+git+checkout+-b+full-stack-engineer;%24+git+commit+-m+%22feat%3A+create+solution+to+resolve+problem%22;%24+git+push+origin+head)](https://git.io/typing-svg)
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> &nbsp;Hi there
 
