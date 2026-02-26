@@ -6,7 +6,7 @@
 
 &nbsp;
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=24&duration=1000&pause=2000&color=59C359&multiline=true&width=800&height=140&lines=%24+git+checkout+adriel;%24+status%3A+Full+Stack+Engineer;%24+git+commit+-m+%22Initial+commit%3A+Problem+solver%22;%24+git+push+origin+solutions+--force)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&size=24&duration=1000&pause=2000&color=59C359&multiline=true&width=800&height=140&lines=%24+git+config+--global+user.name+%22adriel%22;%24+git+checkout+-b+full-stack-engineer;%24+git+commit+-m+%22feat%3A+create+solution+to+resolve+problem%22;%24+git+push+origin+head)](https://git.io/typing-svg)
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> &nbsp;Hi there
 
@@ -14,7 +14,7 @@ A Full Stack Engineer who enjoy building something that ease real-world frustrat
 
 In today’s AI-driven era, I’m currently mainly focused on exploring AI tools to enhance my productivity and accelerate my learning.
 
-I strongly believe that every explorer starts their journey from Hello World village, so I prefer to let attitude, time and results speak for themselves.
+I strongly believe that every explorer starts their journey from Hello World village, so let attitude, time and results speak for themselves.
 
 > _Don’t complicate things when you can keep them simple_
 
